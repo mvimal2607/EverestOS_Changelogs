@@ -15,11 +15,8 @@
 - Added xdroid settings layout
 - Redesigned seekbar and switch widget
 - Added new progress bar for battery and storage
-- Added illustrations and lottie animations
 - Redesigned volume panel
 - Added refresh rate tile and settings
-- Added AOD customizations and Vibration settings
-- Added App lock
 - Enabled Clone App Settings
 - Added per-app Volume
 - Added increasing ringer volume
@@ -43,7 +40,6 @@
 - Added system fonts &  LS clock fonts
 - Added Brightness slider customizations and styles
 - Added UDFPS icons and animations
-- Added UI styles [Beta]
 - Added signal, wifi and data icons styles
 
 ### STATUSBAR 
@@ -53,28 +49,21 @@
 - Added HD icons for VoLTE and VoWIFI
 - Added Clock and date customizations
 - Added clock background chip options
-- Added notification count, colored qs icons and statubar icons
+- Added notification count, colored statubar icons
 - Added custom logos along with Everest logo
 - Added Network traffic, 4G icons
 - Added data disabled icon, wifi standard switch
-- Added Statubar paddings
-- Added statusbar clock colors, font styles and size
-- Added privacy indicators options
-- Added statusbar lyric
 
 ### QUICK SETTINGS
 
-- Added clock size cust
-- Added Qs header images
 - Added quick pulldown and show data usage option
 - Added QS transparency and QS dual tone option
-- Added qs header size
-- Added QS tiles touch feedback, tiles layout and A11 QS styles
-- Added QS tiles styles
+- Added QS tiles touch feedback
 - Added QS animations and transitions
 - Added Brightness slider customizations
 - Added Brightness slider percentage and haptics
-
+- Added Combined QS Style Element Styles
+- Added Colored QS Notification icons
 
 ### BUTTONS
 
@@ -82,7 +71,7 @@
 - Added power menu optional blur
 - Added playback control and volume media output
 - Added volume wake and volume button answer call
--  Added keyboard cursor control and arrow keys
+- Added keyboard cursor control and arrow keys
 - Added reorient volume panel on screen rotate
 
 ### GESTURES
@@ -92,21 +81,16 @@
 - Added statusbar brightness control
 - Added double tap to check phone
 - Added double tap to sleep
-- Added advanced gesture option
 
 ### NOTIFICATIONS
 
--Added island notification styles
--Added notification headup and make heads up less annoying
+- Added island notification styles
+- Added notification make heads up less annoying
 - Added force stop button
 - Added clear all notification button(Replace clear all notification text with material style floating button)
--Added edge lighting and their Customizations
 
 ### MICSELLANEOS
 
-- Added Ambient-AOD Customization
-- Added Random Settings header
-image
 - Added lgnore window secure flags
 - Added Charging Background
 - Added Show clipboard overlay
@@ -114,14 +98,10 @@ image
 - Added Use storage encryption
 spoofing
 - Added Unlock higher FPS in games
-- Added Settings style
-- Added Header style 
-- Added Sensor block per-package
 
 ### SYSTEM 
 
 - Added Charging animation switch
-- Added Media show time switch
 - Added Unlimited Photos storage button
 - Added Allow application downgrade
 - Added system Navigation mode
@@ -133,18 +113,14 @@ spoofing
 - Added Custom Clock style
 - Added Dynamic clock
 - Added Lockscreen charging info
+- Added Ripple effect
 - Added Screen off animation
-- Added Hide Statusbar
-- Added Lockscreen media artwork
-- Added Media cover art filter, blur level and fade level
 - Added Pulse
 (Audio visualizer for navigation bar, lockscreen and ambient screen)
 - Added Music ticker
 - Added Wake up on charge
-- Added Fingerprint authentication
-vibration
 - Added Fingerprint error vibration
-- Added Ripple effect
+- Added edge lighting and their Customizations
 
 ### QS TILES
 
@@ -154,15 +130,11 @@ Added the following new QS tiles
 - Sound
 - Live Display
 - Reading Mode
-- Powershare
-- Sleepmode
-- Heads Up
 - Caffeine
-- Data Switch Tile
 - Wifi and Mobile Data
 - Sync tile
 - Compass tile
-- SOund Search
+- Sound Search
 
 And many under the hood changes are done to make your experience better. This is the Beta Release so expect some bugs and features broken. If you get any bugs and broken features please report with  logs and help us to make the rom experience better.
 
